@@ -1,0 +1,6 @@
+discord
+asyncio 
+Python
+Game
+Random
+Time
